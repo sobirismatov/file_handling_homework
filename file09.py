@@ -6,5 +6,5 @@ def main(data:str):
     Returns:
         int: return answer
     """
-
+print
 # Read data from file
