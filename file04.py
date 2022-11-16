@@ -8,7 +8,7 @@ def main(data:str):
     """
     a=[]
     for i in data:
-        if i.isalphe():
+        if i.isalpha():
             a.append(str(i))
     return a
 f= open('./txt_file/data04.txt')
